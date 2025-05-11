@@ -32,7 +32,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/your-username/password-generator.git
+git clone  https://sujahang.github.io/Random-Password-Generator/
 Open index.html in your browser.
 
 Set your desired password length using the input field.
